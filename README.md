@@ -14,7 +14,7 @@ Deployed to Vercel.
 Main features:
 - React App featuring Context API, Reducers
 - Custom UI frameworks: Tailwind CSS, daisyUI
-- Github REST APIs is used as a 3d party API
+- Github REST API is used as a 3d party API
 
 
 See this [Application](https://github-finder-five-ecru.vercel.app/) live!
